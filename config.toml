@@ -1,0 +1,14 @@
+[theme]
+# Palette FEC Audit Pro
+primaryColor        = "#1a3a5c"
+backgroundColor     = "#ffffff"
+secondaryBackgroundColor = "#f0f4f8"
+textColor           = "#1f2937"
+font                = "sans serif"
+
+[server]
+# Taille max fichier upload (FEC peuvent être volumineux)
+maxUploadSize       = 200
+
+[browser]
+gatherUsageStats    = false
