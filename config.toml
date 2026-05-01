@@ -1,0 +1,15 @@
+[theme]
+# Thème SOMBRE forcé pour cohérence avec les composants HTML custom
+base                     = "dark"
+primaryColor             = "#00c8b4"
+backgroundColor          = "#0a1628"
+secondaryBackgroundColor = "#0f2040"
+textColor                = "#e2e8f0"
+font                     = "sans serif"
+
+[server]
+# Taille max upload — les FEC peuvent dépasser 50 Mo
+maxUploadSize = 500
+
+[browser]
+gatherUsageStats = false
